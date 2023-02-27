@@ -1,0 +1,5 @@
+1. Buatlah program PHP untuk menampilkan bilangan kelipatan 5 dari 1 hingga 100 menggunakan perulangan do-while.
+
+2. Buatlah program PHP untuk menampilkan deret bilangan fibonacci dari 1 sampai 100 menggunakan perulangan do-while!
+
+3. Buatlah program PHP untuk menghasilkan tabel perkalian dari 1 sampai 10 menggunakan perulangan for bersarang!
