@@ -1,0 +1,5 @@
+1. Buatlah program PHP yang memeriksa apakah suatu tahun adalah tahun kabisat atau bukan. Sebuah tahun kabisat jika habis dibagi 4 dan tidak habis dibagi 100, atau habis dibagi 400. Jika tahun adalah tahun kabisat, tampilkan pesan "Tahun kabisat", jika tidak tampilkan pesan "Bukan tahun kabisat"!
+
+2. Buatlah program PHP untuk menentukan kategori berat badan seseorang berdasarkan indeks massa tubuh (BMI). Jika BMI kurang dari 18.5, tampilkan pesan "Berat badan kurang", jika BMI antara 18.5 dan 24.9, tampilkan pesan "Berat badan normal", jika BMI antara 25 dan 29.9, tampilkan pesan "Berat badan berlebih", dan jika BMI lebih dari 30, tampilkan pesan "Obesitas"!
+
+3. Buatlah program PHP untuk menentukan apakah sebuah bilangan prima atau bukan. Bilangan prima adalah bilangan yang hanya bisa dibagi oleh 1 dan bilangan itu sendiri. Jika bilangan adalah bilangan prima, tampilkan pesan "Bilangan prima", jika tidak, tampilkan pesan "Bukan bilangan prima"!
